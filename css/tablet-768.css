@@ -1,0 +1,10 @@
+.main-tables-container {
+    display: flex;
+    width: 930px;
+    margin: 0 auto;
+    padding: 0 130px;
+}
+
+.plans-container--slider {
+    justify-content: center;
+}
